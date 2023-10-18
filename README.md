@@ -35,7 +35,7 @@
                 <img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chech2&theme=one_dark_pro&show_icons=true" />
             </td>
             <td> 
-            [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ch2ch2)](https://solved.ac/ch2ch2/)
+            [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chech2)](https://solved.ac/ch2ch2/)
             </td>
         </tr>
     </table> 
