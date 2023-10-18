@@ -1,7 +1,4 @@
 <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 동료와 함께 성장하는 백엔드 개발자, 이채림 LeeChelim  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 책임감을 가지고 함께 동료들과 함께 성장하는 중인 백엔드 개발자 이채림입니다.</li></li>같은 기능에 다른 기술을 적용시키며 새로운 기술에 도전하고 공부하는 것을 좋아합니다.</li></li>자신이 맡은 역할에 최선을 다하고, 함께 만들어낸 신뢰관계를 통해 팀원들과 같이 성장하고 있습니다.</li></li>아직 배울 것이 많지만 그래서 더 재미있습니다. </div> 
-    </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
