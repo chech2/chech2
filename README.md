@@ -1,15 +1,9 @@
 # <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1586271105/noticon/eyjidxvaivj5xh1vitnn.gif" alt="chelim's GitHub" width="30%" height="30%"> Chelim's&nbsp;GitHub &nbsp; [![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchech2)](https://hits.seeyoufarm.com)
 
 
-<div style="text-align: left;"> 
-    <div style="text-align: left;">
-            <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🖥 Beakjoon </h2> <br> 
-<div align="left">
-        <img width="450px" src="https://github-readme-stats.vercel.app/api?username=chech2&theme=one_dark_pro&show_icons=true" />
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ch2ch2" width="400">
-       </div>
-
-</div>
+<div style="display: flex; justify-content: space-between;">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ch2ch2" style="width: 45%; height: auto;" />    
+    <img src="https://github-readme-stats.vercel.app/api?username=chech2&theme=one_dark_pro&show_icons=true" style="width: 45%; height: auto;" />
 </div>
 
 
