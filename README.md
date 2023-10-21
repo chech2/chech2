@@ -28,11 +28,5 @@
     </div>
     
 
-<div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 💭 Contact me </h2> <br> 
-    <div style="text-align: left;"> <a href=https://cheleecherry.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://cheleecherry.tistory.com/"> </a>
-         <a href=https://tropical-border-e6f.notion.site/LeeChelim-ver-539c59a439594acea080731a40341a73?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://tropical-border-e6f.notion.site/LeeChelim-ver-539c59a439594acea080731a40341a73?pvs=4"> </a>
-          </div>  <br> 
-    <div style="text-align: left;">  </div> 
-    </div>
+
 
